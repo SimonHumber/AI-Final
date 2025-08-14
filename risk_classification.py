@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Simple PyTorch Neural Network for Payment Risk Classification
 ==========================================================
